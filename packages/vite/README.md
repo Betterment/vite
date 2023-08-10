@@ -1,5 +1,7 @@
 # vite ⚡
 
+**This is a short term fork used by [Betterment](https://github.com/betterment) to work around [this concern](https://github.com/vitejs/vite/pull/13136).**
+
 > Next Generation Frontend Tooling
 
 - 💡 Instant Server Start

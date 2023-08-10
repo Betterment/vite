@@ -1,10 +1,10 @@
 {
-  "name": "vite",
-  "version": "4.4.9",
+  "name": "@betterment/vite",
+  "version": "4.5.0",
   "type": "module",
   "license": "MIT",
   "author": "Evan You",
-  "description": "Native-ESM powered web dev build tool",
+  "description": "Native-ESM powered web dev build tool -- short term fork until https://github.com/vitejs/vite/pull/13136 is resolved",
   "bin": {
     "vite": "bin/vite.js"
   },
